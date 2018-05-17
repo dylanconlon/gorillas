@@ -1,0 +1,76 @@
+body {
+	background-color: #B3B3B3;
+	font-size: 20px;
+}
+
+h1 {
+	font-family: 'Pangolin', cursive;
+	font-size: 65px;
+	text-align: center;
+	padding: 20px;
+}
+
+.gorillalogo1 {
+	width: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 100px;
+	padding-bottom: 50px;
+
+}
+
+.links { 
+	display:inline-block;
+	margin:0 1% 0 1%;
+	padding-bottom: 30px;
+	padding-top: 45px;
+	width: 100px;
+}
+
+h3 {
+	font-family: 'Pangolin', cursive;
+	font-size: 30px;
+	text-align: center;
+	padding: 30px;
+}
+
+h2 {
+	text-align: center;
+	padding-top: 15px;
+	font-family: 'Pangolin', cursive;
+	text-decoration-color: black;
+}
+
+.footer {
+	text-align: center;
+	font-family: 'Pangolin', cursive;
+}
+
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: #303030;
+}
+
+a:hover {
+	color: purple;
+}
+
+a {
+	padding: 10px;
+	width: 150px;
+	border-style: solid;
+	border-color: black;
+	font-family: 'Pangolin', cursive;
+}
+
+.nav {
+	text-align: center;
+}
+
+.here {
+	border-color: #B3B3B3
+}
